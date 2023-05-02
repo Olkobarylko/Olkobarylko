@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Front-end developer with 2 years of experience in developing high-performance <br>websites using HTML, CSS, JavaScript  and WordPress. Looking for an opportunity<br>to join your company to extend my expertise working with an experienced web <br>development team.
+
+I specialize in responsive, mobile friendly websites, creating custom themes as well as modifying existing themes, plugins, and writing custom code needed to achieve my client's goals.
+
+I have developed a wide range of websites using HTML, CSS, SCSS, JavaScript, WordPress, PHP, Vue, TypeScript, including sites for startup companies, small businesses and individuals. I enjoy developing, coding and maintaining clean, professional, easy to navigate websites.
 
 
 # 💻 Tech Stack:
